@@ -26,7 +26,21 @@ This project demonstrates fundamental data preprocessing techniques on a simulat
 - Pandas
 - NumPy
 - Jupyter Notebook
+- Renaming columns
 
 ## 🎯 Purpose
 
 This project is part of my learning journey in data analysis for healthcare and serves as a foundation for future AI-based cardiology projects.
+
+## CSV Analysis
+
+## Topics Covered
+
+- Reading CSV files
+- Viewing datasets
+- Selecting columns
+- Filtering rows
+- Sorting data
+- Statistical analysis
+- Creating new columns
+- Renaming columns
