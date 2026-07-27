@@ -1,0 +1,13 @@
+PatientID,Name,Age,Gender,BloodPressure,HeartRate,Risk
+101,Amit,24,M,120,76,Low
+102,Priya,55,F,150,90,High
+103,Rahul,61,M,160,95,High
+104,Neha,42,F,135,82,Medium
+105,Karan,37,M,128,78,Low
+106,Sweta,48,F,145,88,Medium
+107,Rohan,65,M,170,98,High
+108,Pooja,29,F,118,72,Low
+109,Arjun,58,M,155,91,High
+110,Meera,45,F,138,84,Medium
+111,Riya,52,F,145,89,High
+112,Dev,33,M,126,75,Low
